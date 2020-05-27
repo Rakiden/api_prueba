@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "server_api": [
     {
-      "id": 1,
-      "title": "hello"
+      "proses-api.php":"",
+      "config":[
+          {
+            "config.php":""
+          }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
